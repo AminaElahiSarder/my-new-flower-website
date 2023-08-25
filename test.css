@@ -1,0 +1,304 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato' , sans-serif;
+}
+
+.btn{
+    border-radius: 8px;
+    background: #E55473;
+    display: flex;
+    padding: 15px 40px;
+    border: 0;
+    color: #FFF;
+    font-size: 15px;
+    
+
+}
+.banner-description{
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+    width: 634px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.banner-greeting{
+    font-size: 80px;
+    width: 700px;
+    color: #272727;
+}
+
+.banner-img{
+    width: 500px;
+}
+.container-text{
+    height: 426px;
+    padding: 250px 25px 100px 25px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #FCEEF1;
+    background: rgba(229, 84, 115, 0.10);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    
+}
+.pink-title{
+    font-size: 18px;
+    text-decoration-line: underline;
+    display: flex;
+}
+.feature-text{
+    text-align: center;
+    
+}
+.feature{
+    padding: 130px;
+}
+.flowers-title{
+    color: #272727;
+    font-size: 25px;
+}
+.flowers-description{
+    font-size: 18px;
+
+    width: 550px;
+    padding: 20px 545px;
+    color: rgba(39, 39, 39, 0.60);
+
+}
+.main-section{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+.pink-img{
+    width: 310px;
+    height: 428px;
+    margin-left: 80px;
+    margin-top: 110px;
+    
+}
+.pink-flower{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+.pink-title{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.blue-flower{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.blue-img{
+    width: 370px;
+    height: 370px;
+    margin-left: 58px;
+    margin-top: 110px;
+}
+.blue-title{
+    margin-left: 150px;
+    margin-top: 88px;
+    font-size: 18px;
+    text-decoration-line: underline;
+    display: flex;
+
+}
+.yellow-img{
+    width: 314px;
+    height: 471px;
+    margin-left: 83px;
+    margin-top: 67px;
+}
+.yellow-flower{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+}
+.discount-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1922px;
+    height: 515px;
+
+}
+.discount-section{
+    text-align: center;
+    margin: 120px;
+    
+    margin-left: 315px;
+    width: 30%;
+
+}
+.redflower-top{
+    margin-right: 161px;
+}
+.discount-section p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgba(39, 39, 39, 0.60);
+    
+    font-size: 18px;
+
+}
+.discount-section h2{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 700;
+}
+.discount-section span{
+    color: #E55473;
+
+}
+.signup-btn{
+    display: inline-flex;
+    padding: 20px 43px;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+}
+.insta-shop{
+    text-align: center;
+}
+.insta{
+    padding: 130px;
+}
+.insta-title{
+    
+    color: #272727;
+    font-size: 25px;
+}
+.insta-description{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    width: 587px;
+    margin-left: 520px;
+    color: rgba(39, 39, 39, 0.60);
+
+}
+.flowers-imgs{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin: 47px;
+}
+.cuponcode{
+    text-align: center;
+    padding: 144px;
+}
+.first-shipping{
+    background: url(images/Rectangle\ 9.png);
+    width: 1440px;
+    height: 449px;
+}
+.latestdeal{
+    margin: 0px 210px 100px 253px;
+    
+}
+.Subscribe-btn{
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+background: #E55473;
+border: 0;
+color: #FFF;
+font-size: 16px;
+font-weight: 700;
+
+
+}
+.inputfield{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    margin-right: 10px;
+    background: #FFF;
+    border: 0;
+    margin-top: 58px;
+}
+
+input::placeholder {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 20px;
+
+}
+.cuponcode p {
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 15px;
+    color: rgba(39, 39, 39, 0.60);
+
+}
+.cuponcode h2 {
+    color: #272727;
+
+font-size: 30px;
+
+font-weight: 750;
+
+}
+
+.footflowershop{
+    width: 1922px;
+    height: 468px;
+    background: #111010;
+}
+.hflowershop{
+    text-align: center;
+    padding: 150px;
+}
+.hflowershop span{
+    color: #E55473;
+    
+    font-size: 48px;
+
+    font-weight: 800;
+    
+}
+.hflowershop h2{
+    color: #FFF;
+    
+    font-size: 48px;
+    
+    font-weight: 800;
+    
+}
+.ppflowershop{
+    width: 625px;
+    padding: 20px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+font-weight: 400;
+margin-left: 462px;
+
+}
+.pflowershop{
+    color: rgba(255, 255, 255, 0.40);
+
+font-size: 16px;
+font-weight: 400;
+
+}
